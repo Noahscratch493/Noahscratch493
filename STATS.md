@@ -19,6 +19,6 @@
 ![Scratch](https://img.shields.io/badge/Scratch-Master-orange)
 ![Python](https://img.shields.io/badge/Python-Beginner-blue)
 ![Markdown](https://img.shields.io/badge/Markdown-Good-darkgreen)
-![HTML](https://img.shields.io/badge/HTML-Barely-darkred)
+![HTML](https://img.shields.io/badge/HTML-Some-yellow)
 ![Batch](https://img.shields.io/badge/Batch-Barely-darkred)
 ![Shell (.sh)](https://img.shields.io/badge/Shell%20(.sh)-Barely-darkred)
