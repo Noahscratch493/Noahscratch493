@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Noahscratch493!
 
 Welcome to my GitHub profile!  
-I'm passionate about creative coding, especially in Scratch, and I'm on a journey to learn Python and web technologies. I love making fun projects, sharing them, and connecting with other coders!
-
+I'm always doing creative coding, especially in Scratch, and I'm on a journey to learn Python and web technologies. I love making fun projects and sharing them!
 ---
 
 ## ✨ About Me
@@ -10,7 +9,7 @@ I'm passionate about creative coding, especially in Scratch, and I'm on a journe
 - 🎮 **Scratch Enthusiast:** Building games, animations, and more!
 - 🐍 **Python Beginner:** Learning the basics and experimenting with fun code.
 - 🌐 **Web Explorer:** Dipping my toes into HTML, Markdown, and scripting.
-- 📺 **Content Creator:** Sharing tutorials and project walkthroughs on [YouTube](https://www.youtube.com/channel/UCSN4-8b7bo3_bz_XRS9ZdBQ).
+- 📺 **Content Creator:** Sharing tutorials and animations on [YouTube](https://www.youtube.com/channel/UCSN4-8b7bo3_bz_XRS9ZdBQ).
 ---
 
 ## 💻 Coding Skills
