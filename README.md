@@ -16,7 +16,7 @@
   <a href="https://scratch.mit.edu/users/noahscratch493"><img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Scratch.logo.S.png" width="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools I use:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/git"><img src="https://skillicons.dev/icons?i=git" width="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="40"/></a>
