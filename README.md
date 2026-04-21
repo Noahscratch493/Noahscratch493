@@ -2,7 +2,7 @@
 
 ### A cool developer
 
-- 🔭 I'm currently working on **[CattyMod](https://www.cattymod.app) and [Scrooge](https://scrooch-project.github.io)**
+- 🔭 I'm currently working on **[CattyMod](https://www.cattymod.app) and [Scrooch](https://scrooch-project.github.io)**
 
 - 🌱 I'm currently learning some Python and HTML when I have time
 
