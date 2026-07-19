@@ -16,14 +16,9 @@
   <a href="https://scratch.mit.edu/users/noahscratch493"><img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Scratch.logo.S.png" width="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools I use:</h3>
+<h3 align="left">Main Languages and Tools I know:</h3>
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/git"><img src="https://skillicons.dev/icons?i=git" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Javascript"><img src="https://skillicons.dev/icons?i=js" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/Python"><img src="https://skillicons.dev/icons?i=py" width="40"/></a>
-  <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" width="40"/></a>
   <a href="https://makecode.com"><img src="https://cdn.makecode.com/blob/9ab4abfcdff3405e5cca8a3c38e129aec2b363e3/static/logo.png" width="40"/></a>
   <a href="https://scratch.mit.edu"><img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Scratch.logo.S.png" width="40"/></a>
 </p>
