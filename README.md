@@ -1,6 +1,6 @@
 # Hi, I'm Noahscratch493 👋
 
-### A cool developer
+### I'm a cool developer 😎
 
 - 🔭 I'm currently working on **[CattyMod](https://www.cattymod.app) and [Scrooch](https://scrooch-project.github.io)**
 
